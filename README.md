@@ -6,6 +6,7 @@ Sample code from DevOpsDocs Transforming Tediousness into Joy presented at Swetu
 
 1. .NET 8s SDK
 1. Run `dotnet tool restore` to have all tools used available
+1. Run `git submodule init` and `git submodule update` to ensure Static Docable theme available.
 
 Some of the sample PowerShell scripts use environment variables for storing Azure tenant id and subscription id.
 
